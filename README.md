@@ -238,4 +238,4 @@ Potential next steps include:
 
 ## Important Note
 
-The notebook uses **TinyLlama 1.1B**, so the project is best viewed as a lightweight demonstration of LLM-powered classification rather than a production-ready enterprise email filtering system. The attached notebook does not provide latency, throughput, model-comparison, or production deployment benchmarks, so those should not be claimed without additional testing..
+The notebook uses **TinyLlama 1.1B**, so the project is best viewed as a lightweight demonstration of LLM-powered classification rather than a production-ready enterprise email filtering system. The attached notebook does not provide latency, throughput, model-comparison, or production deployment benchmarks, so those should not be claimed without additional testing.
